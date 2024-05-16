@@ -1,4 +1,8 @@
 Chatsphere - A MERN Social Media containerized Web App with Microservices Backend Architecture
-<object data="../ChatSphere_Report.pdf" width="1000" height="1000" type='application/pdf'></object>
+
+Check Out the Report For more information :
+https://github.com/coolwednesday/Chatsphere_Initial_Version/blob/main/ChatSphere_Report.pdf
+
+
 
  
