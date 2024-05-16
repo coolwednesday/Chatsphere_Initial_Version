@@ -1,4 +1,5 @@
 Chatsphere - A MERN Social Media containerized Web App with Microservices Backend Architecture
-<iframe src="https://github.com/coolwednesday/Chatsphere_Initial_Version/blob/main/ChatSphere_Report.pdf" width="100%" height="600px"></iframe>
+<object data="https://github.com/coolwednesday/Chatsphere_Initial_Version/blob/main/ChatSphere_Report.pdf" width="1000" height="1000" type='application/pdf'></object>
+
 
  
